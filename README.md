@@ -1,7 +1,7 @@
-🧠 Image Classification using ANN and CNN
+Image Classification using ANN and CNN
 This project implements image classification on the CIFAR-10 dataset using two deep learning models:
-Artificial Neural Network (ANN)
-Convolutional Neural Network (CNN)
+1. Artificial Neural Network (ANN)
+2. Convolutional Neural Network (CNN)
 It compares the performance of both models and demonstrates the effectiveness of CNN for image-based tasks.
 
 Features
@@ -27,13 +27,10 @@ How to Run
 # Clone the repository
 git clone https://github.com/yourusername/image-classification-using-ANN-and-CNN.git
 cd image-classification-using-ANN-and-CNN
-
 # Install dependencies
 pip install -r requirements.txt
-
 # Run training
 python train.py
-
 train.py should include code for preprocessing, model definition (ANN and CNN), training, and evaluation.
 
 Results
